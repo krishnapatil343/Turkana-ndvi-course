@@ -6,7 +6,7 @@ NDVI = (near infrared − red) / (near infrared + red). Green leaves usually ref
 |---|---|---|
 | MODIS Terra MOD13Q1 v6.1 | 250 m, 16-day composite, NDVI scale factor 0.0001 | Core vegetation series. [Earth Engine catalog](https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD13Q1). For an optional sample, search MOD13Q1 v6.1 in [NASA Earthdata Search](https://search.earthdata.nasa.gov/) and sign in with your own Earthdata credentials. |
 | Sentinel-2 harmonized surface reflectance | B8 near infrared and B4 red at 10 m, nominal five-day revisit with two satellites | Optional single-date NDVI demonstration after cloud screening. [Earth Engine catalog](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR_HARMONIZED). |
-| CHIRPS daily v2 | 0.05° grid, roughly 5–6 km near Turkana, daily precipitation depth | Core rainfall series. Sum days to mm/month. Adapted from Ioana’s proposal. [Earth Engine catalog](https://developers.google.com/earth-engine/datasets/catalog/UCSB-CHG_CHIRPS_DAILY). |
+| CHIRPS daily v2 | 0.05° grid, roughly 5–6 km near Turkana, daily precipitation depth | Core rainfall dataset. Sum daily rainfall to obtain monthly totals in millimetres. [Earth Engine catalog](https://developers.google.com/earth-engine/datasets/catalog/UCSB-CHG_CHIRPS_DAILY). |
 
 ## Setup
 
