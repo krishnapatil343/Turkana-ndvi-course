@@ -1,8 +1,8 @@
 # Vegetation Response (NDVI) in North Turkana, Kenya
 
-![Course banner with thesis artwork and both author portraits](assets/course-banner.svg)
+![Course banner with thesis artwork and Ioana Popescu’s portrait](assets/course-banner.svg)
 
-*Cover artwork from Krishna Arun Patil’s 2023 MSc thesis.*
+*Cover artwork from the 2023 Lake Turkana MSc thesis.*
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/102sVf27HrrRI-H4YdVaOKKKGMoRAp8Pl)
 
