@@ -24,4 +24,4 @@ NDVI = (0.30 − 0.20) / (0.30 + 0.20) = **0.20**. For example, check whether th
 
 </details>
 
-Next: [Earth Engine setup and dataset guide](Background_and_script_walkthrough.md#setup)
+Next: [Earth Engine practical](Earth_Engine_Practical.ipynb)
